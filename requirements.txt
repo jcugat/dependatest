@@ -13,7 +13,7 @@ click==7.1.2              # via pip-tools
 idna==2.9                 # via yarl
 multidict==4.7.6          # via aiohttp, yarl
 pip-tools==5.1.2          # via dependatest (setup.py)
-pydantic==1.3             # via dependatest (setup.py)
+pydantic==1.6.1             # via dependatest (setup.py)
 python-dateutil==2.8.1    # via arrow
 six==1.14.0               # via pip-tools, python-dateutil
 yarl==1.4.2               # via aiohttp
