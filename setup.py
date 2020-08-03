@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 install_requires = [
     "aiohttp~=3.4",
     "arrow~=0.14",
-    "pip-tools==5.1.2",
+    "pip-tools==5.3.1",
     "pydantic~=1.3",
 ]
 
